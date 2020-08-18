@@ -1,0 +1,7 @@
+.sidebar-container {
+  float: left;
+  width: 25%;
+  height: 100vh;
+  background: lightblue;
+  position: fixed;
+}
